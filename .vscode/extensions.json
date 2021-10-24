@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "irongeek.vscode-env",
+    "editorconfig.editorconfig",
+    "coenraads.bracket-pair-colorizer-2",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-python.vscode-pylance",
+    "ms-python.python"
+  ]
+}
