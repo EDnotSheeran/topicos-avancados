@@ -21,3 +21,5 @@ Comandos Uteis
 - Passa para o requirements.txt todos os pacotes instalados
 
   - pip freeze > requirements.txt
+
+teste
